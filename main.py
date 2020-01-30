@@ -8,7 +8,7 @@ import time
 from tkinter.ttk import *
 from ttkthemes import ThemedTk
 
-window = ThemedTk(theme="smog")         # Create the application window
+window = ThemedTk(theme="aquavito")         # Create the application window
 
 window.title("Welcome")
 window.geometry('350x200')
